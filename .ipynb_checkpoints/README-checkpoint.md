@@ -22,3 +22,8 @@ model = keras.models.load_model(/saved/model/path)
 
 cls.test(model)
 ```
+
+### Reference
+ - [TensorFlow API Docs](https://www.tensorflow.org/api_docs/)
+ - [AnujShah's repository](https://github.com/anujshah1003/Transfer-Learning-in-keras---custom-data)
+ - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/images/classification)
